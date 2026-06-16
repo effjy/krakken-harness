@@ -1,4 +1,8 @@
-# 🐙 Krakken-2048 / Krakken-Disk V5 — Test Harness
+<div align="center">
+
+<a href="https://github.com/effjy/krakken-harness/"><img src="titles/krakken-2048-harness-title.svg" height="52" alt="Krakken-2048 Harness"></a>
+
+Krakken-2048 / Krakken-Disk V5 — Test Harness
 
 [![Tests](https://img.shields.io/badge/tests-18%2F18%20passing-brightgreen.svg)](#results)
 [![Crypto Core](https://img.shields.io/badge/crypto--core-9%2F9-brightgreen.svg)](#1-crypto-core-suite)
@@ -8,6 +12,8 @@
 [![Deps: libsodium](https://img.shields.io/badge/deps-libsodium-orange.svg)](#requirements)
 [![Platform: Linux x86--64](https://img.shields.io/badge/platform-Linux%20x86--64%20(AVX2)-lightgrey.svg)](#requirements)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+
+</div>
 
 A **standalone**, drop-anywhere test package for the Krakken-2048 permutation and
 the Krakken-Disk **V5** on-disk sector format. It vendors only the crypto-core
